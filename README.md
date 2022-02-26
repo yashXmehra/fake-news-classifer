@@ -2,9 +2,13 @@ A type of yellow journalism, fake news encapsulates pieces of news that may be h
 Characteristics of Fake News:
 
 Their sources are not genuine.
+
 May or may not have grammatical errors.
+
 Often uses attention-seeking words, click baits, etc.
+
 Seems too good to be true.
+
 Mimics the real headlines and twists the story.
 
 A study shows that a fake tweet on Twitter spreads six times faster than the real one. Thus, it becomes necessary to find whether a piece of news is true or fake whenever we read any information on the web.
